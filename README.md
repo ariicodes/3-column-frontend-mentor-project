@@ -49,3 +49,4 @@ I plan to recreate this project using React once I tackle it.
 - Frontend Mentor - [@ariicodes](https://www.frontendmentor.io/profile/ariicodes)
 - Twitter - [@ariicodes](https://www.twitter.com/ariicodes)# 3-column-frontend-mentor-project
 # 3-column-frontend-mentor-project
+# 3-column-frontend-mentor-project
